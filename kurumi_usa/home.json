@@ -2,30 +2,53 @@
     "title": "Kurumi|Usa",
     "subtitle": "胡桃|羽纱",
     "info": {
-        "avatar": "https://i1.hdslb.com/bfs/face/1cddac6d0ed5a6f344111a725eb07aeee7c9e95c.jpg",
-        "description": "胡桃うさ(Kurumi Usa) 混沌系虚拟堕天使降临！<br>喜欢游戏和唱歌，目标是成为GAMER IDOL~！<br>想要成为大家的偶像、大家的信仰，让世界变得混沌起来！",
-        "background": "/raw/img/kurumi_dilei.jpg"
+      "avatar": "https://i1.hdslb.com/bfs/face/1cddac6d0ed5a6f344111a725eb07aeee7c9e95c.jpg",
+      "description": "胡桃うさ(Kurumi Usa) 混沌系虚拟堕天使降临！<br>喜欢游戏和唱歌，目标是成为GAMER IDOL~！<br>想要成为大家的偶像、大家的信仰，让世界变得混沌起来！",
+      "background": "/raw/img/kurumi_dilei.jpg"
     },
     "social": [
-        {
-            "key": "bilibili",
-            "name": "哔哩哔哩",
-            "link": "https://space.bilibili.com/12497617"
-        }
+      {
+        "key": "bilibili",
+        "name": "哔哩哔哩",
+        "link": "https://space.bilibili.com/12497617"
+      }
     ],
     "timeline": [
-        {
-            "time": 1620043211,
-            "type": "bilibili_video",
-            "description": "发布首支原创曲「ダラクダテンシ」",
-            "metadata": {
-                "bvid": "BV1XN411f7WQ"
-            }
-        },
-        {
-            "time": 0,
-            "type": "end",
-            "description": "堕天使降临！！"
+      {
+        "time": 1630119600,
+        "type": "bilibili_video",
+        "description": "普罗维登最初的10人联合投稿「与你陷入热恋！盛夏的Mermaid festa vol.1」",
+        "metadata": {
+          "bvid": "BV1B64y1q7gN"
         }
+      },
+      {
+        "time": 1620043211,
+        "type": "bilibili_video",
+        "description": "发布首支原创曲「ダラクダテンシ」",
+        "metadata": {
+          "bvid": "BV1XN411f7WQ"
+        }
+      },
+      {
+        "time": 0,
+        "type": "end",
+        "description": "堕天使降临！！"
+      },
+      {
+        "time": 1.7976931348623157e+308,
+        "type": "now",
+        "description": "<< 堕堕人持续增加中 >>"
+      },
+      {
+        "time": 1614096000,
+        "type": "fans_milestone",
+        "description": "在Bilibili关注者数量达到<lb>10</lb>万"
+      },
+      {
+        "time": 1622206800,
+        "type": "other_milestone",
+        "description": "首次进行<d3>3D</d3>直播"
+      }
     ]
-}
+  }
