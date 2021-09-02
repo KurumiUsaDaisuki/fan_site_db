@@ -1,0 +1,69 @@
+{
+  "title": "Kurumi|Power",
+  "subtitle": "胡桃|帕瓦——",
+  "voice": [
+    {
+      "name": "1s测试",
+      "path": "/raw/sound/test_sound_1s.mp3",
+      "duration": 1,
+      "tag": [
+        "测试",
+        "1秒"
+      ],
+      "section": {
+        "name": "测试"
+      },
+      "source": {
+        "id": "BV1B64y1q7gN",
+        "time": "2m1"
+      },
+      "ct": 1617326177
+    },
+    {
+      "name": "10s测试",
+      "path": "/raw/sound/test_sound_10s.mp3",
+      "duration": 10,
+      "tag": [
+        "测试",
+        "10秒"
+      ],
+      "section": {
+        "name": "Long测试"
+      },
+      "source": {
+        "id": "BV1B64y1q7gN",
+        "time": "233"
+      },
+      "special": {
+        "type": "image",
+        "metadata": {
+
+        }
+      },
+      "ct": 1623374177
+    },
+    {
+      "name": "5s测试",
+      "path": "/raw/sound/test_sound_5s.mp3",
+      "duration": 5,
+      "tag": [
+        "测试",
+        "5秒"
+      ],
+      "section": {
+        "name": "测试"
+      },
+      "source": {
+        "id": "BV1B64y1q7gN",
+        "time": "1m1"
+      },
+      "special": {
+        "type": "image",
+        "metadata": {
+
+        }
+      },
+      "ct": 1620263777
+    }
+  ]
+}
