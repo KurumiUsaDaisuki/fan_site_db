@@ -4,7 +4,7 @@
   "voice": [
     {
       "name": "1s测试",
-      "path": "/raw/sound/test_sound_1s.mp3",
+      "path": "/res/raw/sound/test_sound_1s.mp3",
       "duration": 1,
       "tag": [
         "测试",
@@ -21,7 +21,7 @@
     },
     {
       "name": "10s测试",
-      "path": "/raw/sound/test_sound_10s.mp3",
+      "path": "/res/raw/sound/test_sound_10s.mp3",
       "duration": 10,
       "tag": [
         "测试",
@@ -44,7 +44,7 @@
     },
     {
       "name": "5s测试",
-      "path": "/raw/sound/test_sound_5s.mp3",
+      "path": "/res/raw/sound/test_sound_5s.mp3",
       "duration": 5,
       "tag": [
         "测试",
